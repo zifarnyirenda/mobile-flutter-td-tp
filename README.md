@@ -17,7 +17,7 @@ Les TPs sont des mises en pratique avancées pour développer des applications c
 
 
 
-- **[TP2 -TP2 - Développement d'une Application Flutter avec API Backend](TP2/TP2.md)** 💻  
+- **[TP2 - Développement d'une Application Flutter avec API Backend](TP2/TP2.md)** 💻  
   Développement d'une application mobile Flutter permettant d'afficher, ajouter, modifier et supprimer des shows avec une API backend. 
 
 
