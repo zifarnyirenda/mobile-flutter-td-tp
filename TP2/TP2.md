@@ -1074,7 +1074,21 @@ class ShowList extends StatelessWidget {
 
 ### 4. Mise en place de la fonctionnalité d'ajout d'un show
 
-* Installer la bibliothèque `image_picker` pour permettre la sélection d'images :
+**Configuration des Permissions pour Android**  
+1. Ouvrez le fichier **`android/app/src/main/AndroidManifest.xml`**.  
+2. Ajoutez les permissions suivantes à l’intérieur de la balise `<manifest>` :  
+
+```xml
+   <uses-permission android:name="android.permission.CAMERA"/>
+   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+   <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+```
+3. Assurez-vous que la ligne suivante est présente à l’intérieur de la balise <application> :
+```xml
+android:requestLegacyExternalStorage="true"
+```
+
+Installer la bibliothèque `image_picker` pour permettre la sélection d'images :
 
 ```sh
 flutter pub add image_picker
