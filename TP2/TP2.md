@@ -278,7 +278,9 @@ Créer les fichiers Dart suivants dans lib/screens/ avec les interfaces statique
 
 #### 2.1 Page de Connexion (Login Page)
 
-![alt text](image.png)
+
+<img src="image.png" alt="alt text" width="200"/>
+
 Créer login_page.dart :
 ```dart
 import 'package:flutter/material.dart';
@@ -411,7 +413,11 @@ class LoginPage extends StatelessWidget {
 
 #### 2.2 Page d'Accueil (Home Page)
 
-[![Page d'Accueil](image-3.png)](https://drive.google.com/file/d/1H3BlUoLsUJO-q45ENLnRNZQ4gRVyUQpV/view?usp=sharing)
+
+[<img src="image-3.png" alt="Page d'Accueil" width="300"/>](https://drive.google.com/file/d/1H3BlUoLsUJO-q45ENLnRNZQ4gRVyUQpV/view?usp=sharing)
+
+
+
 
 Créer home_page.dart :
 
@@ -559,7 +565,9 @@ class _HomePageState extends State<HomePage> {
 
 
 ### 2.3 Page de Profil (Profile Page)
-![alt text](image-1.png)
+<img src="image-1.png" alt="alt text" width="200"/>
+
+
 Créer profile_page.dart :
 ```dart
 import 'package:flutter/material.dart';
@@ -783,7 +791,8 @@ class _UpdateProfileViewState extends State<UpdateProfileView> {
 
 
 ### 3: age Ajouter un Show (Add Show Page)
-![alt text](image-2.png)
+<img src="image-2.png" alt="alt text" width="200"/>
+
 Créer add_show_page.dart :
 ```dart
 import 'package:flutter/material.dart';
@@ -1218,7 +1227,9 @@ class _AddShowPageState extends State<AddShowPage> {
 
 ## La vidéo complète du TP2
 
-[![La vidéo complète du TP2](image-3.png)](https://drive.google.com/file/d/18LVBgOQqj9okownSgCaXcqQK4MVXVkRu/view?usp=sharing)
+[<img src="image-3.png" alt="Page d'Accueil" width="200"/>](https://drive.google.com/file/d/18LVBgOQqj9okownSgCaXcqQK4MVXVkRu/view?usp=sharing)
+
+
 
 # 🛑 Save yourself from failing the exam! 🚨 
 
