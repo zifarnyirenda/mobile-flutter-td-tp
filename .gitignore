@@ -5,3 +5,5 @@
 **/*.yml
 **/*.lock
 **/*.dart_tool"node_modules/" 
+tp1_Assignment/tp-rest-api/node_modules/
+
