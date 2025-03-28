@@ -4,4 +4,4 @@
 **/*.yaml
 **/*.yml
 **/*.lock
-**/*.dart_tool
+**/*.dart_tool"node_modules/" 
